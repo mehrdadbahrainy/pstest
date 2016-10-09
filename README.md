@@ -1,0 +1,2 @@
+# pstest
+Powershell test project
